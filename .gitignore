@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+
+imgs/*
+!imgs/.gitkeep
+
+pretrains/*
+!pretrains/.gitkeep
